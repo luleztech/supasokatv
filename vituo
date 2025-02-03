@@ -5,7 +5,7 @@
         "name": "Azam Sports 1 HD",
         "id": 1,
         "thumbnail": "https://picsum.photos/200/300?random=1",
-        "url": "https://example.com/stream/azamsports1"
+        "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8"
       },
       {
         "name": "Azam Sports 2 HD",
