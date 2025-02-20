@@ -18,13 +18,8 @@
         "id": 3,
         "thumbnail": "https://i.postimg.cc/zf3rzkBf/Picsart-25-02-20-13-58-41-945-compress71.jpg",
         "url": "https://example.com/stream/azamsports3"
-      },
-      {
-        "name": "Azam Sports 4 HD",
-        "id": 4,
-        "thumbnail": "https://picsum.photos/200/300?random=4",
-        "url": "https://example.com/stream/azamsports4"
       }
+  
     ],
     "habari": [
       {
