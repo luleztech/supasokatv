@@ -4,19 +4,19 @@
       {
         "name": "Azam Sports 1 HD",
         "id": 1,
-        "thumbnail": "https://i.postimg.cc/NM8j1Mk2/Picsart-25-02-20-14-11-16-829-compress68.jpg",
+        "thumbnail": "http://post-images.org/photo-page.php?photo=Zza1sYHt",
         "url": "https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8"
       },
       {
         "name": "Azam Sports 2 HD",
         "id": 2,
-        "thumbnail": "https://i.postimg.cc/c4FMR1Fz/Picsart-25-02-20-14-00-43-159-compress33.jpg",
+        "thumbnail": "http://post-images.org/photo-page.php?photo=Zza1sYHt",
         "url": "http://line.ultrab.xyz/live/2FFC00/271506/1480211.ts"
       },
       {
         "name": "Azam Sports 3 HD",
         "id": 3,
-        "thumbnail": "https://i.postimg.cc/zf3rzkBf/Picsart-25-02-20-13-58-41-945-compress71.jpg",
+        "thumbnail": "http://post-images.org/photo-page.php?photo=Zza1sYHt",
         "url": "https://example.com/stream/azamsports3"
       }
   
@@ -45,13 +45,13 @@
       {
         "name": "Azam Two",
         "id": 5,
-        "thumbnail": "https://i.postimg.cc/m2MGdmwh/Picsart-25-02-21-03-16-41-039-compress61.jpg",
+        "thumbnail": "http://post-images.org/photo-page.php?photo=Zza1sYHt",
         "url": "https://example.com/stream/azamtwo"
       },
       {
         "name": "Sinema Zetu",
         "id": 6,
-        "thumbnail": "https://i.postimg.cc/SsKZwKbD/Picsart-25-02-21-02-56-26-103-compress80.jpg",
+        "thumbnail": "http://post-images.org/photo-page.php?photo=Zza1sYHt",
         "url": "http://line.ultrab.xyz/live/2FFC00/271506/1480211.ts"
       }
     ],
@@ -59,8 +59,8 @@
       {
         "name": "Netflix",
         "id": 7,
-        "thumbnail": "https://i.postimg.cc/jS4YTCBb/Picsart-25-02-21-03-03-38-565-compress16.jpg",
-        "url": "https://example.com/stream/netflix"
+        "thumbnail": "http://post-images.org/photo-page.php?photo=Zza1sYHt",
+        "url": "https://example.com/stream/net"
       }
     ]
   },
