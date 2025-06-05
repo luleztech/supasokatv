@@ -4,19 +4,19 @@
       {
         "name": "Azam Sports 1 HD",
         "id": 1,
-        "thumbnail": "http://post-images.org/photo-page.php?photo=Zza1sYHt",
+        "thumbnail": "https://picsum.photos/200/300?random=1",
         "url": "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8"
       },
       {
         "name": "Azam Sports 2 HD",
         "id": 2,
-        "thumbnail": "http://post-images.org/photo-page.php?photo=Zza1sYHt",
+        "thumbnail": "https://picsum.photos/200/300?random=2",
         "url": "http://line.ultrab.xyz/live/2FFC00/271506/1480211.ts"
       },
       {
         "name": "Azam Sports 3 HD",
         "id": 3,
-        "thumbnail": "http://post-images.org/photo-page.php?photo=Zza1sYHt",
+        "thumbnail": "https://picsum.photos/200/300?random=3",
         "url": "https://example.com/stream/azamsports3"
       }
   
@@ -45,13 +45,13 @@
       {
         "name": "Azam Two",
         "id": 5,
-        "thumbnail": "http://post-images.org/photo-page.php?photo=Zza1sYHt",
+        "thumbnail": "https://picsum.photos/200/300?random=5",
         "url": "https://example.com/stream/azamtwo"
       },
       {
         "name": "Sinema Zetu",
         "id": 6,
-        "thumbnail": "http://post-images.org/photo-page.php?photo=Zza1sYHt",
+        "thumbnail": "https://picsum.photos/200/300?random=6",
         "url": "http://line.ultrab.xyz/live/2FFC00/271506/1480211.ts"
       }
     ],
@@ -59,7 +59,7 @@
       {
         "name": "Uhondo",
         "id": 7,
-        "thumbnail": "http://post-images.org/photo-page.php?photo=Zza1sYHt",
+        "thumbnail": "https://picsum.photos/200/300?random=11",
         "url": "https://example.com/stream/net"
       }
     ]
