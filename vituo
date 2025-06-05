@@ -5,25 +5,25 @@
         "name": "Azam Sports 1 HD",
         "id": "sports1",
         "thumbnail": "https://i.postimg.cc/5Nv3ttvM/azam-sports1.jpg",
-        "url": "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8"
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
       },
       {
         "name": "Azam Sports 2 HD",
         "id": "sports2",
         "thumbnail": "https://i.postimg.cc/5Nv3ttvM/azam-sports2.jpg",
-        "url": "http://line.ultrab.xyz/live/2FFC00/271506/1480211.ts"
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       },
       {
         "name": "Azam Sports 3 HD",
         "id": "sports3",
         "thumbnail": "https://i.postimg.cc/5Nv3ttvM/azam-sports3.jpg",
-        "url": "https://example.com/stream/azamsports3"
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
       },
       {
         "name": "Supersports",
         "id": "supersports",
         "thumbnail": "https://i.postimg.cc/5Nv3ttvM/supersports.jpg",
-        "url": "http://line.ultrab.xyz/live/2FFC00/271506/1480211.ts"
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
       },
       {
         "name": "BNB Sports",
