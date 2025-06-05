@@ -18,6 +18,24 @@
         "id": 3,
         "thumbnail": "https://picsum.photos/200/300?random=3",
         "url": "https://example.com/stream/azamsports3"
+      },
+      {
+        "name": "Supersports",
+        "id": 4,
+        "thumbnail": "https://picsum.photos/200/300?random=12",
+        "url": "http://line.ultrab.xyz/live/2FFC00/271506/1480211.ts"
+      },
+      {
+        "name": "BNB Sports",
+        "id": 5,
+        "thumbnail": "https://picsum.photos/200/300?random=20",
+        "url": "http://line.ultrab.xyz/live/2FFC00/271506/1480211.ts"
+      },
+      {
+        "name": "BBC Sports",
+        "id": 2,
+        "thumbnail": "https://picsum.photos/200/300?random=22",
+        "url": "http://line.ultrab.xyz/live/2FFC00/271506/1480211.ts"
       }
   
     ],
