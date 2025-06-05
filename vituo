@@ -37,9 +37,20 @@
         "thumbnail": "https://picsum.photos/200/300?random=22",
         "url": "http://line.ultrab.xyz/live/2FFC00/271506/1480211.ts"
       }
-  
     ],
-    "habari": [
+    "tamthilia": [
+      {
+        "name": "Azam Two",
+        "id": 5,
+        "thumbnail": "https://picsum.photos/200/300?random=5",
+        "url": "https://example.com/stream/azamtwo"
+      },
+      {
+        "name": "Sinema Zetu",
+        "id": 6,
+        "thumbnail": "https://picsum.photos/200/300?random=6",
+        "url": "http://line.ultrab.xyz/live/2FFC00/271506/1480211.ts"
+      },
       {
         "name": "TBC1",
         "id": 8,
@@ -57,30 +68,14 @@
         "id": 10,
         "thumbnail": "https://picsum.photos/200/300?random=10",
         "url": "https://example.com/stream/wasafi"
-      }
-    ],
-    "tamthilia": [
-      {
-        "name": "Azam Two",
-        "id": 5,
-        "thumbnail": "https://picsum.photos/200/300?random=5",
-        "url": "https://example.com/stream/azamtwo"
       },
-      {
-        "name": "Sinema Zetu",
-        "id": 6,
-        "thumbnail": "https://picsum.photos/200/300?random=6",
-        "url": "http://line.ultrab.xyz/live/2FFC00/271506/1480211.ts"
-      }
-    ],
-    "muvi": [
       {
         "name": "Uhondo",
         "id": 7,
         "thumbnail": "https://picsum.photos/200/300?random=11",
         "url": "https://example.com/stream/net"
       }
-    ]
+    ],
   },
   "carousel": [
     "https://i.postimg.cc/5Nv3ttvM/Picsart-25-01-28-11-44-51-308.jpg",
